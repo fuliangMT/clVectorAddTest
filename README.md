@@ -1,11 +1,11 @@
 # clVecorAddTest
 ## Build & Run Step
 #```
-    cd clVecorAddTest
-    mkdir -p build
-    cd build
-    cmake ..
-    make
-    cd ..
-    ./CL_VectorAdd
+1. cd clVecorAddTest
+2. mkdir -p build
+3. cd build
+4. cmake ..
+5. make
+6. cd ..
+7. ./CL_VectorAdd
  #```
